@@ -48,5 +48,7 @@ namespace TemperatureCalculator
             textBoxC.Text = "";
             textBoxF.Text = "";
         }
+
+        
     }
 }

@@ -54,6 +54,7 @@
             this.textBoxC.Size = new System.Drawing.Size(108, 23);
             this.textBoxC.TabIndex = 2;
             this.textBoxC.Text = "\r\n\r\n";
+           
             // 
             // textBoxF
             // 
